@@ -1,2 +1,2 @@
 # Inventory-System
-Inventory Man
+Inventory Management
